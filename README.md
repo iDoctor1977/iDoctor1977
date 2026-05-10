@@ -25,7 +25,7 @@ Il mio obiettivo è creare soluzioni digitali robuste, scalabili e realmente uti
 > Sistema di gestione carte regalo e tessere ricaricabili per centri estetici – usato in produzione.  
 > Tech stack: CakePHP, Django, PostgreSQL.
 
-### 🔹 FireSentinel (2026)
+### 🔹 [FireSentinel](https://web-production-aff7e.up.railway.app/) (2026)
 > Un sistema integrato per la gestione, il monitoraggio e la manutenzione delle attrezzature antincendio che utilizza codici QR, RFID e un portale web centralizzato.  
 > Tech stack: CakePHP, Django, PostgreSQL.
 
@@ -76,7 +76,7 @@ My goal is to build robust, scalable, and meaningful solutions, especially in hi
 > Ignis AI Auditor è una piattaforma SaaS multi-tenant che automatizza la revisione di progetti di Prevenzione Incendi VVF tramite un motore AI deterministico. 
 > Tech stack: CakePHP, Django, PostgreSQL.
 
-### 🔹 FireSentinel (2026)
+### 🔹 [FireSentinel](https://web-production-aff7e.up.railway.app/) (2026)
 > An integrated system for managing, monitoring, and maintaining fire safety equipment using QR Code, RFID, and a centralized web portal. 
 > Tech stack: CakePHP, Django, PostgreSQL.
 
