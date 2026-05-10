@@ -21,17 +21,17 @@ Il mio obiettivo è creare soluzioni digitali robuste, scalabili e realmente uti
 
 ## 🛠 Progetti in evidenza
 
-### 🔹 [MicroServicesTemplate](https://github.com/iDoctor1977/MicroServicesTemplate)
-> Template modulare in C# / ASP.NET Core per la creazione di sistemi a microservizi.  
-> Include logging centralizzato, gestione eventi con RabbitMQ, autenticazione, DDD, CQRS, TDD, e altro.
-
-### 🔹 Ignis-AI-Auditor (2026)
+### 🔹 [Ignis-AI-Auditor](https://ignis-auditor.it/) (2026)
 > Sistema di gestione carte regalo e tessere ricaricabili per centri estetici – usato in produzione.  
 > Tech stack: CakePHP, Django, PostgreSQL.
 
 ### 🔹 FireSentinel (2026)
 > Un sistema integrato per la gestione, il monitoraggio e la manutenzione delle attrezzature antincendio che utilizza codici QR, RFID e un portale web centralizzato.  
 > Tech stack: CakePHP, Django, PostgreSQL.
+
+### 🔹 [MicroServicesTemplate](https://github.com/iDoctor1977/MicroServicesTemplate)
+> Template modulare in C# / ASP.NET Core per la creazione di sistemi a microservizi.  
+> Include logging centralizzato, gestione eventi con RabbitMQ, autenticazione, DDD, CQRS, TDD, e altro.
 
 ### 🔹 Gift Card System (2024)
 > Sistema di gestione carte regalo e tessere ricaricabili per centri estetici – usato in produzione.  
@@ -72,16 +72,16 @@ My goal is to build robust, scalable, and meaningful solutions, especially in hi
 
 ## 🛠 Featured Projects
 
-### 🔹 [MicroServicesTemplate](https://github.com/iDoctor1977/MicroServicesTemplate)  
-> C# / ASP.NET Core microservices starter kit with centralized logging, RabbitMQ messaging, DDD, CQRS, TDD, and more.
-
-### 🔹 Ignis-AI-Auditor (2026)  
+### 🔹 [Ignis-AI-Auditor](https://ignis-auditor.it/) (2026)
 > Ignis AI Auditor è una piattaforma SaaS multi-tenant che automatizza la revisione di progetti di Prevenzione Incendi VVF tramite un motore AI deterministico. 
 > Tech stack: CakePHP, Django, PostgreSQL.
 
 ### 🔹 FireSentinel (2026)
 > An integrated system for managing, monitoring, and maintaining fire safety equipment using QR Code, RFID, and a centralized web portal. 
 > Tech stack: CakePHP, Django, PostgreSQL.
+
+### 🔹 [MicroServicesTemplate](https://github.com/iDoctor1977/MicroServicesTemplate)  
+> C# / ASP.NET Core microservices starter kit with centralized logging, RabbitMQ messaging, DDD, CQRS, TDD, and more.
 
 ### 🔹 Gift Card System (2024)  
 > System designed for managing gift cards and top-ups in the beauty sector.
