@@ -67,12 +67,16 @@ My goal is to build robust, scalable, and meaningful solutions, especially in hi
 ### 🔹 [MicroServicesTemplate](https://github.com/iDoctor1977/MicroServicesTemplate)  
 > C# / ASP.NET Core microservices starter kit with centralized logging, RabbitMQ messaging, DDD, CQRS, TDD, and more.
 
+### 🔹 Ignis-AI-Auditor (2026)  
+> Ignis AI Auditor è una piattaforma SaaS multi-tenant che automatizza la revisione di progetti di Prevenzione Incendi VVF tramite un motore AI deterministico. 
+> Tech stack: CakePHP, Django, PostgreSQL.
+> 
 ### 🔹 Gift Card System (2024)  
-> Production-ready system for gift cards and top-up management in the beauty sector.  
+> Sistema ideato per la gestione di carte regalo e ricariche nel settore della bellezza.
 > Tech stack: Laravel, Filament, MySQL.
 
 ### 🔹 ISO9001 Process Automation  
-> Java desktop tools built for production workflow optimization and ISO9001 certification support.
+> Strumenti desktop Java progettati per l'ottimizzazione del flusso di lavoro in produzione e con supporto per la certificazione ISO9001.
 
 ---
 
