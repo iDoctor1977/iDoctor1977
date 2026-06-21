@@ -29,7 +29,7 @@ Il mio obiettivo è creare soluzioni digitali robuste, scalabili e realmente uti
 > Un sistema integrato per la gestione, il monitoraggio e la manutenzione delle attrezzature antincendio che utilizza codici QR, RFID e un portale web centralizzato.  
 > Tech stack: CakePHP, Django, PostgreSQL.
 
-### 🔹 [MicroServicesTemplate](https://github.com/iDoctor1977/MicroServicesTemplate)
+### 🔹 [MicroServicesTemplate](https://github.com/iDoctor1977/MicroServicesTemplate) (2020)
 > Template modulare in C# / ASP.NET Core per la creazione di sistemi a microservizi.  
 > Include logging centralizzato, gestione eventi con RabbitMQ, autenticazione, DDD, CQRS, TDD, e altro.
 
